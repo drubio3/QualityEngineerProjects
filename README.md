@@ -1,8 +1,8 @@
 <div align="center">
 
-#  Saran Kumar
+#  Douglas Rubio
 
-**Senior SDET | AI-Augmented Automation Engineer | Quality Advocate**
+**Senior SDET | Senior Automation Engineer | Quality Assurance Champion**
 
 Engineering intelligent, scalable, and production-ready automation systems  
 Blending **AI + Automation + Observability** to redefine modern testing
@@ -45,7 +45,7 @@ Blending **AI + Automation + Observability** to redefine modern testing
 
 <div align="center">
 
-<a href="https://github.com/mvsaran">
+<a href="https://github.com/drubio3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvsaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsaran&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
@@ -84,7 +84,7 @@ Blending **AI + Automation + Observability** to redefine modern testing
 
 **Let's architect the future of testing — with intelligence.** 🚀
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/saran-kumar-a69775215)
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/douglas-rubio-63b55661/)
 
 <br/>
 
