@@ -88,6 +88,6 @@ Blending **AI + Automation + Observability** to redefine modern testing
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:9A00FF&height=120&section=footer&text=Made%20with%20❤️%20and%20AI&fontSize=24&fontColor=ffffff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:9A00FF&height=120&section=footer&text=Thanks for visiting!&fontSize=24&fontColor=ffffff)
 
 </div>
