@@ -80,9 +80,6 @@ Blending **AI + Automation + Observability** to redefine modern testing
 
 <div align="center">
 
-### ⭐ If My Work Inspires You — Consider Starring a Repository
-
-**Let's architect the future of testing — with intelligence.** 🚀
 
 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/douglas-rubio-63b55661/)
 
