@@ -5,7 +5,7 @@
 **Senior SDET | Senior Automation Engineer | Quality Assurance Champion**
 
 Engineering intelligent, scalable, and production-ready automation systems  
-Blending **AI + Automation + Observability** to redefine modern testing
+Blending **Business Needs + Technical Implemenation + Automation** to redefine modern testing
 
 <br/>
 
